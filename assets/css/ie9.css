@@ -38,7 +38,7 @@
 	}
 
 		#footer:before {
-			background-image: url("images/overlay2.png"), url("images/overlay4.svg");
+			background-image: url("images/overlay2.png"), url("images/overlay3.svg");
 			background-position: top left,							center center;
 			background-size: auto,								cover;
 			content: '';

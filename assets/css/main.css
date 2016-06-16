@@ -1995,6 +1995,7 @@
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
 			margin: 0;
+			font-weight: 500;
 		}
 
 		header.major p {

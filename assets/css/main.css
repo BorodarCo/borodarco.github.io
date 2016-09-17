@@ -1877,6 +1877,10 @@
 		line-height: 1.5em;
 	}
 
+	h4.semibold {
+		font-weight: 500;
+	}
+
 	h5 {
 		font-size: 0.9em;
 		line-height: 1.5em;

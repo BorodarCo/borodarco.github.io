@@ -3466,7 +3466,7 @@ input, select, textarea {
 			}
 
 				#header br {
-					display: none;
+					display: inline;
 				}
 
 		/* Footer */
